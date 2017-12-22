@@ -1,0 +1,42 @@
+%0 Conference Proceedings
+%T The Hadoop Distributed File System
+%A Shvachko, Konstantin
+%A Kuang, Hairong
+%A Radia, Sanjay
+%A Chansler, Robert
+%B IEEE  Symposium on MASS Storage Systems and Technologies
+%P 1-10
+%D 2010
+%K distributed file system;Hadoop;HDFS
+%X The Hadoop Distributed File System (HDFS) is designed to store very large data sets reliably, and to stream those data sets at high bandwidth to user applications. In a large cluster, thousands of servers both host directly attached storage and execute user application tasks. By distributing storage and computation across many servers, the resource can grow with demand while remaining economical at every size. We describe the architecture of HDFS and report on experience using HDFS to manage 25 petabytes of enterprise data at Yahoo!.
+
+
+%0 Journal Article
+%T HadoopDB: an architectural hybrid of MapReduce and DBMS technologies for analytical workloads
+%A Abouzeid, Azza
+%A Bajda-Pawlikowski, Kamil
+%A Abadi, Daniel
+%A Silberschatz, Avi
+%A Rasin, Alexander
+%J Proceedings of the Vldb Endowment
+%V 2
+%N 1
+%P 922-933
+%D 2009
+%K CiteSeerX;citations;HadoopDB: An Architectual Hybrid of MapReduce and DBMS Technologies for Analytical Workloads;A Abouzeid;K Pawlikowski;D Abadi;A Silberschatz;A Rasin
+%X Abstract ABSTRACT The production environment,for analytical data management,ap- plications is rapidly changing. Many enterprises are shifting away from deploying their analytical databases on high-end proprietary machines, and moving towards cheaper, lower-end, commodity hardware, typically arranged in a shared-nothing MPP architecture, often in a virtualized environment,inside public or private 鈥渃louds鈥. At the same time, the amount of data that needs to be analyzed is exploding, requiring hundreds to thousands of machines to work in parallel to perform the analysis. There tend to be two schools of thought regarding what tech- nology to use for data analysis in such an environment.,Propo- nents of parallel databases argue that the strong emphasis,on per- formance,and efficiency of parallel databases makes,them,well- suited to perform such analysis. On the other hand, others argue that MapReduce-based systems are better suited due to their supe- rior scalability, fault tolerance, and flexibility to handle unstructured data. In this paper, we explore the feasibility of building a hybrid system that takes the best features from both technologies; the pro- totype we built approaches parallel databases in performance,and efficiency, yet still yields the scalability, fault tolerance, and flexi- bility of MapReduce-based systems.
+
+
+%0 Journal Article
+%T Big Data: A Revolution That Will Transform How We Live, Work, and Think.
+%A Naimi AI
+%A Westreich DJ
+%J Mathematics & Computer Education
+%V 47
+%N 17
+%P 181-183
+%D 2013
+%K Performance;Strategy;Pricing
+%X BIG DATA: A REVOLUTION THAT WILL TRANSFORM HOW WE LIVE, WORK, AND THINK by Viktor...
+
+
