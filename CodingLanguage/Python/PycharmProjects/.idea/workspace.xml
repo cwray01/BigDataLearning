@@ -11,33 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="backup_ver4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/backup_ver4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="opp_method.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/opp_method.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="oop_simpolestclass.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/oop_simpolestclass.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -93,11 +71,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="io_pickle.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="io_pickle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/io_pickle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="120">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exceptions_handle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/exceptions_handle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exceptions_raise.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/exceptions_raise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -145,6 +143,8 @@
         <option value="$PROJECT_DIR$/tutorial/HelloWorld/io_input.py" />
         <option value="$PROJECT_DIR$/tutorial/HelloWorld/io_using_file.py" />
         <option value="$PROJECT_DIR$/tutorial/HelloWorld/io_pickle.py" />
+        <option value="$PROJECT_DIR$/tutorial/HelloWorld/exceptions_handle.py" />
+        <option value="$PROJECT_DIR$/tutorial/HelloWorld/exceptions_raise.py" />
       </list>
     </option>
   </component>
@@ -211,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.io_pickle">
+  <component name="RunManager" selected="Python.exceptions_handle">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,6 +225,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="exceptions_handle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tutorial/HelloWorld" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial/HelloWorld/exceptions_handle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,37 +314,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="oop_subclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tutorial/HelloWorld" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial/HelloWorld/oop_subclass.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.oop_objvar" />
-      <item index="1" class="java.lang.String" itemvalue="Python.oop_subclass" />
-      <item index="2" class="java.lang.String" itemvalue="Python.io_input" />
-      <item index="3" class="java.lang.String" itemvalue="Python.io_using_file" />
-      <item index="4" class="java.lang.String" itemvalue="Python.io_pickle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.io_input" />
+      <item index="2" class="java.lang.String" itemvalue="Python.io_using_file" />
+      <item index="3" class="java.lang.String" itemvalue="Python.io_pickle" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exceptions_handle" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.io_pickle" />
-        <item index="1" class="java.lang.String" itemvalue="Python.io_using_file" />
-        <item index="2" class="java.lang.String" itemvalue="Python.io_input" />
-        <item index="3" class="java.lang.String" itemvalue="Python.oop_objvar" />
-        <item index="4" class="java.lang.String" itemvalue="Python.oop_subclass" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exceptions_handle" />
+        <item index="1" class="java.lang.String" itemvalue="Python.io_pickle" />
+        <item index="2" class="java.lang.String" itemvalue="Python.io_using_file" />
+        <item index="3" class="java.lang.String" itemvalue="Python.io_input" />
+        <item index="4" class="java.lang.String" itemvalue="Python.oop_objvar" />
       </list>
     </recent_temporary>
   </component>
@@ -381,24 +381,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/backup_ver4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/opp_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/function_return.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -765,8 +747,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/io_pickle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/exceptions_handle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/HelloWorld/exceptions_raise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
           <folding />
         </state>
       </provider>
