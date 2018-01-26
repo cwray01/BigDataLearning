@@ -22,7 +22,7 @@ public class Bounce
 }
 
 /**
- * The frame with ball componeng and buttons.
+ * The frame with ball component and buttons.
  */
 class BounceFrame extends JFrame
 {
@@ -39,7 +39,7 @@ class BounceFrame extends JFrame
         setTitle("Bounce");
         comp = new BallComponent();
         add(comp, BorderLayout.CENTER);
-        JPanel buttonPanel = new Jpanel();
+        JPanel buttonPanel = new JPanel();
         addButton(buttonPanel, "Start", event -> addBall());
         addButton(buttonPanel, "Close", event -> System.exit(0));
         pack();
@@ -67,7 +67,20 @@ class BounceFrame extends JFrame
     {
         try
         {
-            
+            Ball ball = new Ball();
+            comp.add(ball);
+
+            for (int i = 1; i <= STEPS; i++)
+            {
+                ball.move(comp.getBounds());
+                comp.paint(comp.getGraphics());
+                Thread.sleep(DELAY);
+
+            }
+        }
+        catch (InterruptedException e)
+        {
+
         }
     }
 
