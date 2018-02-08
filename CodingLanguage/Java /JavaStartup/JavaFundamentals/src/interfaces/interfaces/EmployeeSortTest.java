@@ -1,4 +1,6 @@
-package interfaces;
+package interfaces.interfaces;
+
+import interfaces.interfaces.Employee;
 
 import java.util.*;
 /**

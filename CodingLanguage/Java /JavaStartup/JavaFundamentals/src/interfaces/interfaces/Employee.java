@@ -1,4 +1,4 @@
-package interfaces;
+package interfaces.interfaces;
 
 public class Employee implements Comparable<Employee>
 {
@@ -29,7 +29,7 @@ public class Employee implements Comparable<Employee>
     }
 
     /**
-     * Compares employees by salary
+     * Compares emloyees by salary
      * @param other another Employee object
      * */
 
