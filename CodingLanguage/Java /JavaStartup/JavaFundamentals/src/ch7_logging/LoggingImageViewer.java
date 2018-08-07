@@ -17,14 +17,14 @@ public class LoggingImageViewer {
         {
             try
             {
-                Logger.getLogger("com.horstmann.corejava").setLevel(Level.ALL);
+                Logger.getLogger("com.horstmann.corejava").setLevel(Level.ALL); //用getLogger的方法创建或获取记录器，Level.ALL开启所有级别的记录
                 final int LOG_ROTATION_COUNT = 10;
-                Handler handler = new FileHandler("%h/LoggingImageViewer.log", 0, LOG_ROTATION_COUNT);
+                Handler handler = new FileHandler("%h/LoggingImageViewer.log", 0, LOG_ROTATION_COUNT);  //%h日志记录文件模式变量，%h表示系统属性user.home的值
                 Logger.getLogger("com.horstmann.corejava").addHandler(handler);
             }
             catch (IOException e)
             {
-                Logger.getLogger("com.horstmann.corejava").log(Level.SEVERE,
+                Logger.getLogger("com.horstmann.corejava").log(Level.SEVERE,    //logger.log(Level.FINE,message);指定log级别
                         "Can't create log file handler", e);
             }
         }
@@ -55,9 +55,9 @@ class ImageViewerFrame extends JFrame
     private static final int DEFALUT_HEIGHT = 400;
 
     private JLabel label;
-    private static Logger logger = Logger.getLogger("com.horstmann.corejava");
+    private static Logger logger = Logger.getLogger("com.horstmann.corejava"); //初始化日志处理器
 
-    public ImageViewerFrame()
+    public ImageViewerFrame()  //定义弹窗界面
     {
         logger.entering("ImageViewerFrame", "<init>");
         setSize(DEFALUT_WIDTH,DEFALUT_HEIGHT);
@@ -71,11 +71,11 @@ class ImageViewerFrame extends JFrame
 
         JMenuItem openItem = new JMenuItem("Open");
         menuBar.add(openItem);
-        openItem.addActionListener(new FileOpenListener());
+        openItem.addActionListener(new FileOpenListener());  //监听Open按键，响应结果为new FileOpenListener
 
         JMenuItem exitItem = new JMenuItem("Exit");
         menu.add(exitItem);
-        exitItem.addActionListener(new ActionListener()
+        exitItem.addActionListener(new ActionListener()     //监听退出按键，最终响应结果为System.exit
         {
             public void actionPerformed(ActionEvent event)
             {
@@ -91,22 +91,22 @@ class ImageViewerFrame extends JFrame
 
     }
 
-    private class FileOpenListener implements ActionListener
+    private class FileOpenListener implements ActionListener  //为本程序定制的响应方法
     {
         public void actionPerformed(ActionEvent event)
         {
             logger.entering("ImageViewerFrame.FileOpenListener", "actionPerformed", event);
 
             //set up file chooser
-            JFileChooser chooser = new JFileChooser();
-            chooser.setCurrentDirectory(new File("."));
+            JFileChooser chooser = new JFileChooser();  //选择文件的窗口
+            chooser.setCurrentDirectory(new File(".")); //选择文件窗口初始化的路径，"."表示在当前路径
 
             //accept all files ending with .gif
-            chooser.setFileFilter(new javax.swing.filechooser.FileFilter()
+            chooser.setFileFilter(new javax.swing.filechooser.FileFilter() //文件过滤器
                                   {
-                                      public boolean accept(File f)
+                                      public boolean accept(File f)    //过滤所有.gif后缀
                                       {
-                                          return f.getName().toLowerCase().endsWith(".gif") || f.isDirectory();
+                                          return f.getName().toLowerCase().endsWith(".gif") || f.isDirectory(); //如果选中的是文件夹，则进入进入这一层文件夹
                                       }
 
                                       public String getDescription()
@@ -134,10 +134,11 @@ class ImageViewerFrame extends JFrame
 
 /**
  * A handler for displaying log records in a window.
+ *
  */
-class WindowHandler extends StreamHandler
+class WindowHandler extends StreamHandler   //自定义处理器，扩展自StreamHandler类，用于在窗口显示日志记录
 {
-    private JFrame frame;
+    private JFrame frame; //定义窗口frame
 
     public WindowHandler()
     {
@@ -145,6 +146,7 @@ class WindowHandler extends StreamHandler
         final JTextArea output = new JTextArea();
         output.setEditable(false);
         frame.setSize(200,200);
+        frame.add(new JScrollPane(output));
         frame.setFocusableWindowState(false);
         frame.setVisible(true);
         setOutputStream(new OutputStream()
@@ -163,7 +165,7 @@ class WindowHandler extends StreamHandler
         });
     }
 
-    public void publish(LogRecord record)
+    public void publish(LogRecord record)       //覆盖publish方法，以便在处理器获得每个记录之后刷新缓存区
     {
         if (!frame.isVisible()) return;
         super.publish(record);
