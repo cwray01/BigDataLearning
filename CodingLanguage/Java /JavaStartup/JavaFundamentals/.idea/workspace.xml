@@ -102,8 +102,8 @@
       <file leaf-file-name="LoggingImageViewer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch7_logging/LoggingImageViewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="140" column="37" lean-forward="false" selection-start-line="140" selection-start-column="37" selection-end-line="140" selection-end-column="37" />
+            <state relative-caret-position="171">
+              <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -208,9 +208,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="201" />
-    <option name="y" value="23" />
-    <option name="width" value="1100" />
+    <option name="x" value="544" />
+    <option name="y" value="27" />
+    <option name="width" value="782" />
     <option name="height" value="706" />
   </component>
   <component name="ProjectView">
@@ -455,7 +455,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="201" y="23" width="1100" height="706" extended-state="0" />
+    <frame x="544" y="27" width="782" height="706" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -494,8 +494,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/bounce/Bounce.java" />
-    <entry file="file://$PROJECT_DIR$/out/production/JavaFundamentals/EmployeeTest/Employee.class" />
     <entry file="file://$PROJECT_DIR$/src/interfaces/interfaces/Employee.java" />
     <entry file="file://$PROJECT_DIR$/src/interfaces/clone/CloneTest.java" />
     <entry file="file://$PROJECT_DIR$/src/map/MapTest.java" />
@@ -683,12 +681,12 @@
         <state relative-caret-position="285">
           <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding>
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="false" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#458#459#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
+            <element signature="e#919#920#0" expanded="false" />
+            <element signature="e#978#979#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -782,10 +780,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/logging/StreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="136" column="32" lean-forward="false" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/awt/EventQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-779">
+          <caret line="96" column="13" lean-forward="false" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch7_logging/LoggingImageViewer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="140" column="37" lean-forward="false" selection-start-line="140" selection-start-column="37" selection-end-line="140" selection-end-column="37" />
+        <state relative-caret-position="171">
+          <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

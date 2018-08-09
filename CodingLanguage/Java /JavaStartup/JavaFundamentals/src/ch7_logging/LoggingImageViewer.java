@@ -29,17 +29,18 @@ public class LoggingImageViewer {
             }
         }
 
-        EventQueue.invokeLater(() ->
-        {
-            Handler windowHandler = new WindowHandler();
-            windowHandler.setLevel(Level.ALL);
-            Logger.getLogger("com.horstmann.corejava").addHandler(windowHandler);
+        EventQueue.invokeLater(() ->        //lambda表达式，事件队列,事件分派线程
+        {   System.out.println("Now in EventQueue");
+            Handler windowHandler = new WindowHandler();        //自定义定义一个窗口处理器
+            windowHandler.setLevel(Level.ALL);                  //该窗口处理器记录的级别设为Level.ALL
+            Logger.getLogger("com.horstmann.corejava").addHandler(windowHandler);   //将日志传送到自定义的窗口处理器
 
-            JFrame frame = new ImageViewerFrame();
-            frame.setTitle("LoggingImageViewer");
-            frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            JFrame frame = new ImageViewerFrame();              //初始化一个Frame
+            frame.setTitle("LoggingImageViewer");               //Frame的Title
+            frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);//用户单击关闭按钮时的操作
+//            frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);//用户单击关闭按钮时的操作
 
-            Logger.getLogger("com.hortmann.corejava").fine("Showing frame");
+            Logger.getLogger("com.hortmann.corejava").info("Showing frame");
             frame.setVisible(true);
         });
     }
@@ -55,8 +56,8 @@ class ImageViewerFrame extends JFrame
     private static final int DEFALUT_HEIGHT = 400;
 
     private JLabel label;
-    private static Logger logger = Logger.getLogger("com.horstmann.corejava"); //初始化日志处理器
-
+    private static Logger logger = Logger.getLogger("com.horstmann.corejava"); //选择一个日志记录器，并把日志记录器命名为与主应用程序包一样的名字
+                                                                                //利用一些日志操作将下面的静态域添加到类中
     public ImageViewerFrame()  //定义弹窗界面
     {
         logger.entering("ImageViewerFrame", "<init>");
@@ -116,17 +117,17 @@ class ImageViewerFrame extends JFrame
                                   }
             );
 
-            // show file chooser dialog
+            // show file chooser dialog 展示文件选择窗的对话框 Frame
             int r = chooser.showOpenDialog(ImageViewerFrame.this);
 
             // if image file accepted, set it as icon of the label
             if (r==JFileChooser.APPROVE_OPTION)
             {
-                String name = chooser.getSelectedFile().getPath();
-                logger.log(Level.FINE, "Reading file {0}", name);
+                String name = chooser.getSelectedFile().getPath(); //定义展示文件名为已选择文件的path
+                logger.log(Level.FINE, "Reading file {0}", name); //定义该事件的日志级别，Fine，报文展示被选文件路径
                 label.setIcon(new ImageIcon(name));
             } else logger.fine("File open dialog canceled");
-            logger.exiting("ImageViewerFrame.FileOpenListener","actionPerformed");
+            logger.exiting("ImageViewerFrame.FileOpenListener","actionPerformed"); //actionPerformed结束
 
         }
     }
@@ -138,30 +139,30 @@ class ImageViewerFrame extends JFrame
  */
 class WindowHandler extends StreamHandler   //自定义处理器，扩展自StreamHandler类，用于在窗口显示日志记录
 {
-    private JFrame frame; //定义窗口frame
+    private JFrame frame; //声明窗口frame
 
     public WindowHandler()
     {
-        frame = new JFrame();
-        final JTextArea output = new JTextArea();
-        output.setEditable(false);
-        frame.setSize(200,200);
-        frame.add(new JScrollPane(output));
-        frame.setFocusableWindowState(false);
-        frame.setVisible(true);
-        setOutputStream(new OutputStream()
+        frame = new JFrame();   //定义窗口
+        final JTextArea output = new JTextArea();   //定义文字显示区
+        output.setEditable(false);   //设置文字显示区为可编辑状态
+        frame.setSize(400,400); //设置日志窗口大小
+        frame.add(new JScrollPane(output)); //滚动窗格 scroll pane，参考12.3.5滚动窗格
+        frame.setFocusableWindowState(true); //setFocusableWindowState打开以后可以选择日志中的文字，做复制操作
+        frame.setVisible(true); //设置日志窗口可见开关
+        setOutputStream(new OutputStream() //打印流
         {
 
             public void write(int b)
             {
 
-            }// not called
+            }// not called，如果只传入一个参数，那么就无响应
 
             public void write(byte[] b, int off, int len)
             {
                 output.append(new String(b, off, len));
 
-            }
+            } //传入三个参数，输出
         });
     }
 
