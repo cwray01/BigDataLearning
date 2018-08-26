@@ -7,6 +7,15 @@ class Song implements Comparable<Song>{
     String rating;
     String bpm;
 
+    public boolean equals(Object aSong){    //要被比较的对象
+        Song s = (Song) aSong;
+        return getTitle().equals(s.getTitle());     //因为歌名是String,且String本来就覆盖过的equals(),所以我们可以调用它
+    }
+
+    public int hashCode(){
+        return title.hashCode();    //String也有覆盖过的hashCode(),注意到hashCode()与equals()使用相同的实例变量-title
+    }
+
     public int compareTo(Song s){
         return title.compareTo(s.getTitle());
     }
@@ -36,7 +45,7 @@ class Song implements Comparable<Song>{
     }
 
     /**
-     * 将toString()覆盖过，让它返回革命
+     * 将toString()覆盖过，让它返回歌名
      * @return
      */
     public String toString(){
