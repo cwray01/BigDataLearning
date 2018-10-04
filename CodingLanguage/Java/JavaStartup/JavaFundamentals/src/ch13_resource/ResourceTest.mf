@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Name: ResourceTest.class
+Main-Class: ch13_resource.ResourceTest
