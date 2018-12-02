@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertTimeout;
 import static org.junit.jupiter.api.Assertions.assertTimeoutPreemptively;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import org.junit.jupiter.api.BeforeAll;
+
 import org.junit.jupiter.api.Test;
 
 /**
@@ -17,8 +17,8 @@ import org.junit.jupiter.api.Test;
  * used with Java 8 lambdas. All JUnit Jupiter assertion are static methods
  * in the org.junit.jupiter.apit.Assertions calss
  */
-class AssertionDemo {
-    @BeforeAll
+class AssertionsDemo {
+
 
     @Test
     void standardAssertions(){
@@ -28,7 +28,7 @@ class AssertionDemo {
                 + "to avoid constructing complex messages unnecessarily.");
     }
 
-    @Test
+    @Test   //Think in details!
     void groupedAssertions(){
         // In a grouped assertion all assertions are executed, and any
         // failures will be reported together
@@ -40,32 +40,78 @@ class AssertionDemo {
     }
 
     @Test
-    void dependentAssertions() {
-        // Within a code block, if an assertion fails the
-        // subsequent code in the same block will be skipped.
-        assertAll("properties",
+    void dependentAssertions(){
+        //Within a code block, if an assertion fails the
+        //subsequent code in the same block will be skipped
+        assertAll("proproties",
                 () -> {
                     String firstName = person.getFirstName();
                     assertNotNull(firstName);
-
                     // Executed only if the previous assertion is valid.
                     assertAll("first name",
                             () -> assertTrue(firstName.startsWith("J")),
                             () -> assertTrue(firstName.endsWith("n"))
-                    );
+                            );
                 },
                 () -> {
-                    // Grouped assertion, so processed independently
-                    // of results of first name assertions.
+                    //Grouped assertion, so processed independently
+                    //of results of first name assertions.
                     String lastName = person.getLastName();
                     assertNotNull(lastName);
 
-                    // Executed only if the previous assertion is valid.
+                    //Executed only if the previous assertion is valid.
                     assertAll("last name",
                             () -> assertTrue(lastName.startsWith("D")),
                             () -> assertTrue(lastName.endsWith("e"))
                     );
                 }
-        );
+                );
+    }
+
+    @Test
+    void exceptionTesting() {
+        Throwable exception = assertThrows(IllegalArgumentException.class, () -> {
+            throw new IllegalArgumentException("a message");
+        });
+        assertEquals("a message", exception.getMessage());
+    }
+
+    @Test
+    void timeoutNotExceeded(){
+        // The following assertion succeeds.
+        assertTimeout(ofMinutes(2), () -> {
+            // perform task that takes less than 2 minutes.
+        });
+    }
+
+    @Test
+    void timeoutNotExceedeWithResult(){
+        // The following assertion succeeds, and returns the supplied objects
+        String actualResult = assertTimeout(ofMinutes(2), () -> {
+            return "a result";
+        });
+        assertEquals("a result", actualResult);
+    }
+
+    @Test
+    void timeoutNotExceededWithMethod(){
+        // The following assertion invokes a method reference and returns an object.
+        String actualGreeting = assertTimeout(ofMinutes(2), AssertionsDemo::greeting);
+        assertEquals("Hello, World!", actualGreeting);
+    }
+
+    @Test
+    void timeoutExceeded(){
+        // The following assertion fails with an error message similar to
+        // execution timed out after 10ms
+        assertTimeoutPreemptively(ofMillis(10), () -> {
+            //Simulate task that takes more than 10ms.
+            Thread.sleep(100);
+        });
+    }
+
+
+    private static String greeting(){
+        return "Hello, World!";
     }
 }
