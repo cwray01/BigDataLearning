@@ -1,8 +1,333 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/ch10/sec03/VisibilityDemo.java" line="10" mnemonic="0" />
+    <bookmark url="file://$PROJECT_DIR$/src/ch10/sec04/ParallelAlgorithms.java" line="61" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd3d9ad-bac2-4a00-8907-afc3bbc1b54c" name="Default" comment="" />
+    <list default="true" id="1bd3d9ad-bac2-4a00-8907-afc3bbc1b54c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/automods/commons-csv-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/chart.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/META-INF/services/ch04.sec04.Cipher" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/alice.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec01/HelloWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec01/MethodDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec02/NumberDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec03/VariableDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec04/ArithmeticDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec04/BigNumberDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec04/RelationalDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec05/StringDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec06/InputDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec07/DoDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec07/ForDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec07/WhileDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec08/ArrayDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec08/ArrayListDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec08/Greeting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec08/TwoDimensionalArrayDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec09/ArrayMethodDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec09/StaticMethodDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch01/sec09/VarargsDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec01/Cal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec01/ReferenceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec02/CallByValueDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec02/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec02/EmployeeDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec02/EvilManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec03/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec03/EmployeeDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec04/CreditCardForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec04/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec04/RandomNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec04/StaticMethodDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec05/StaticImportDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec06/Invoice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec06/InvoiceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec06/Network.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch02/sec06/NetworkDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec01/DigitSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec01/IntSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec01/IntSequenceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec01/SquareSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec02/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec02/Identified.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec02/IntSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec02/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec03/ButtonDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec03/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec03/RunnableDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec03/SortDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec04/ButtonDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec04/LambdaDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec05/ConstructorReferenceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec05/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec05/MethodReferenceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec06/ImageDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec06/PixelFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec06/RepeatDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec07/ScopeDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec08/ComparatorDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec08/HigherOrderDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec08/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec09/AnonymousClassDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec09/IntSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch03/sec09/LocalClassDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/AnonymousSubclassDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/ConcurrentWorker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/ConcurrentWorkerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/InheritanceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/Named.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/StudentDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec01/Worker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec02/DiscountedItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec02/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec02/Item.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec02/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec02/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec03/Calculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec03/Calculator2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec03/EnumDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec03/Modifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec03/Operation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec03/Size.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec04/Cipher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec04/ClassDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec04/ServiceLoaderDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec04/impl/AESCipher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec04/impl/AESCipherFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec04/impl/CaesarCipher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec05/ArrayReflection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec05/MethodPrinter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch04/sec05/ProxyDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch05/sec01/DefaultUncaughtExceptionHandlerDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch05/sec01/FileFormatException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch05/sec01/FinallyNotCompletingNormallyDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch05/sec01/StackTraceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch05/sec01/ThrowDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch05/sec01/TryFinallyDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch05/sec01/TryWithResourcesDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch05/sec02/AssertionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch05/sec03/LoggingDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec01/Entry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec02/ArrayUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec02/ArrayUtilDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec03/Closeables.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec03/CloseablesDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec04/ArrayUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec04/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec04/Employees.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec04/HeapPollutionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec04/Lists.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec04/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec05/WordList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec05/WordListDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec06/ArrayUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec06/Exceptions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch06/sec07/GenericReflectionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec02/ConcurrentModificationDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec02/IteratorDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec02/ListIteratorDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec03/SetDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec04/LinkedHashMapDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec04/MapDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec05/BitsetDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec05/EnumSetDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec05/Job.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec05/PriorityQueueDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec05/PropertiesDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec05/StackQueueDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch07/sec06/RangeDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/scratch/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec01/CountLongWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec02/CreatingStreams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec03/FilterMapDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec04/ExtractingCombining.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec05/OtherTransformations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec06/SimpleReductions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec07/OptionalDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec08/CollectingResults.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec09/CollectingIntoMaps.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec10/GroupingPartitioning.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec11/DownstreamCollectors.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec12/ReductionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec13/PrimitiveTypeStreams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch08/sec14/ParallelStreams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec01/BinaryIO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec01/CharsetDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec01/MemoryMappedFileDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec01/StreamDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec01/TextIO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec02/DirectoryDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec02/FileDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec02/PathDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec02/ZipDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec03/HttpClientDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec03/PostDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec04/FindingOneOrAllMatches.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec04/Flags.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec04/Groups.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec04/RegexDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec04/RemovingOrReplacingMatches.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec05/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec05/LabeledPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec05/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec05/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec05/PersonDatabase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec05/PersonProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch09/sec05/SerializationDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec01/CallableDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec01/RunnableDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec02/AsyncDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec02/WebReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec03/RaceConditionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec03/VisibilityDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec04/ParallelAlgorithms.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec05/CHMDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec06/AtomicLongDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec06/LongAdderDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec07/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec07/CounterDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec07/Flag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec07/FlagDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec07/LockDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec07/Queue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec07/QueueDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec08/InterruptionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec08/ThreadDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec08/ThreadLocalDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch10/sec09/ReadDir.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec01/AnnotationDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec01/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec01/ReadOnly.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec01/ReceiverDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec01/TypeUseAnnotations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec01/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec02/BugReport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec02/Reference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec02/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec03/StandardAnnotations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec04/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec04/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec04/RuntimeAnnotationDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec04/ToString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec04/ToStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec05/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec05/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch11/sec05/SourceLevelAnnotationDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch12/sec01/Timeline.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch12/sec02/LocalDates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch12/sec03/DateAdjusters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch12/sec04/LocalTimes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch12/sec05/ZonedTimes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch12/sec06/Formatting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch12/sec07/Legacy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec01/Locales.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec02/NumberFormats.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec03/Currencies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec04/DateAndTimeFormatting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec05/CollatorDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec06/MessageFormatDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec07/ResourceBundleDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec07/messages.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec07/messages_en.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec07/messages_en_US.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec07/messages_fr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec07/messages_fr_FR.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec08/CharacterEncodings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch13/sec09/PreferencesDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec01/ByteArrayClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec01/ByteArrayClassLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec01/CompilerDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec01/StringSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec02/CompileDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec02/ScriptEngineDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec03/test1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec03/test10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec03/test2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec03/test3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec03/test4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec03/test5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec03/test6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec03/test7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec03/test8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec03/test9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec04/test1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec04/test2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch14/sec04/test3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec03/com/horstmann/hello/HelloWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec03/module-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec04/com/horstmann/hello/HelloWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec04/module-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec05/com/horstmann/hello/HelloWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec05/module-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec06/com/horstmann/places/Country.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec06/com/horstmann/places/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec06/module-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec08/com/horstmann/hello/HelloWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec08/module-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec08/module-info.java.orig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec09/com/horstmann/places/CSVDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/ch15.sec09/module-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com.horstmann.greet/com/horstmann/greet/Greeter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com.horstmann.greet/com/horstmann/greet/internal/GreeterImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com.horstmann.greet/module-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/GreeterService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/FrenchGreeter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/GermanGreeter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/GermanGreeterFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com.horstmann.greetsvc/module-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com/horstmann/places/CSVDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com/horstmann/places/Country.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/com/horstmann/places/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/ch15/countries.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/cities.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/com/horstmann/annotations/ToString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/com/horstmann/annotations/ToStringAnnotationProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/com/horstmann/annotations/ToStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/com/horstmann/corejava/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/com/horstmann/corejava/EmployeeDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/com/horstmann/employees/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source_code/javaimpatient/com/horstmann/managers/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec03/RaceConditionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec03/VisibilityDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec04/ParallelAlgorithms.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec05/CHMDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec06/AtomicLongDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec06/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec06/CounterDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec06/InterruptionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec06/LockDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec06/LongAdderDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec06/Queue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec06/QueueDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec06/ThreadDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec1/CallableDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch10/sec1/RunnableDemo.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../Junit5Tutorial/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../Junit5Tutorial/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../Junit5Tutorial/src/test/java/MyRandomParametersTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CoreJava4Impatient/ch01/sec01/MethodDemo.class" afterPath="$PROJECT_DIR$/out/production/CoreJava4Impatient/ch01/sec01/MethodDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Python/Automate/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Python/Automate/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Junit5Tutorial/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../Junit5Tutorial/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Junit5Tutorial/Junit5Tutorial.iml" afterPath="$PROJECT_DIR$/../../../Junit5Tutorial/Junit5Tutorial.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Junit5Tutorial/pom.xml" afterPath="$PROJECT_DIR$/../../../Junit5Tutorial/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../unit-dev/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../../../unit-dev/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../unit-dev/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../../unit-dev/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../unit-dev/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../unit-dev/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../unit-dev/pom.xml" afterPath="$PROJECT_DIR$/../../../unit-dev/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../unit-dev/unit-dev.iml" afterPath="$PROJECT_DIR$/../../../unit-dev/unit-dev.iml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="../../../unit-dev/.idea/" />
+    <ignored mask="*.class" />
+    <ignored mask="*.zip" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,32 +337,116 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch01/sec01/HelloWorld.java">
+      <file leaf-file-name="CallableDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch10/sec1/CallableDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="760">
+              <caret line="58" column="23" lean-forward="false" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MethodDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch01/sec01/MethodDemo.java">
+      <file leaf-file-name="AtomicLongDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch10/sec06/AtomicLongDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongAdderDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch10/sec06/LongAdderDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="30" column="146" lean-forward="false" selection-start-line="30" selection-start-column="146" selection-end-line="30" selection-end-column="146" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LockDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch10/sec06/LockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Counter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch10/sec06/Counter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InputAndOutput.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch01/sec01/InputAndOutput.java">
+      <file leaf-file-name="CounterDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch10/sec06/CounterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <state relative-caret-position="247">
+              <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch10/sec06/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterruptionDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch10/sec06/InterruptionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch10/sec06/ThreadDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueueDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch10/sec06/QueueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,6 +460,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>make</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -63,14 +480,32 @@
         <option value="$PROJECT_DIR$/src/ch01/sec01/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/ch01/sec01/MethodDemo.java" />
         <option value="$PROJECT_DIR$/src/ch01/sec01/InputAndOutput.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec1/RunnableDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec1/CallableDemo.java" />
+        <option value="$PROJECT_DIR$/src/sec03/RaceConditionDemo.java" />
+        <option value="$PROJECT_DIR$/src/sec03/VisibilityDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec03/VisibilityDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec04/ParallelAlgorithms.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec05/CHMDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec06/AtomicLongDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec06/LongAdderDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec06/LockDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec06/Counter.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec06/CounterDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec06/QueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec06/Queue.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec06/InterruptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch10/sec06/ThreadDemo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="777" />
+    <option name="x" value="469" />
+    <option name="y" value="54" />
+    <option name="width" value="815" />
+    <option name="height" value="717" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -86,9 +521,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,12 +540,58 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sec01" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CoreJava4Impatient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJava4Impatient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoreJava4Impatient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJava4Impatient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="sec1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoreJava4Impatient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJava4Impatient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="sec03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoreJava4Impatient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJava4Impatient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="sec04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoreJava4Impatient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJava4Impatient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="sec05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoreJava4Impatient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJava4Impatient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="sec06" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -126,15 +605,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodDemo">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.InterruptionDemo">
+    <configuration name="AtomicLongDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ch01.sec01.*" />
+          <option name="PATTERN" value="ch10.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ch01.sec01.HelloWorld" />
+      <option name="MAIN_CLASS_NAME" value="ch10.sec06.AtomicLongDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -146,30 +625,71 @@
       <module name="CoreJava4Impatient" />
       <envs />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.icbc.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <configuration name="InterruptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch10.sec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch10.sec06.InterruptionDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="CoreJava4Impatient" />
       <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration name="MethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ch01.sec01.*" />
+          <option name="PATTERN" value="ch10.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ch01.sec01.MethodDemo" />
+      <option name="MAIN_CLASS_NAME" value="ch10.sec06.LockDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CoreJava4Impatient" />
+      <envs />
+    </configuration>
+    <configuration name="LongAdderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch10.sec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch10.sec06.LongAdderDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CoreJava4Impatient" />
+      <envs />
+    </configuration>
+    <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch10.sec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch10.sec06.QueueDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -196,16 +716,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MethodDemo" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.AtomicLongDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LongAdderDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LockDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.QueueDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.InterruptionDemo" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.MethodDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorld" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.InterruptionDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.QueueDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LockDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LongAdderDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AtomicLongDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -226,27 +750,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
+    <frame x="469" y="54" width="815" height="717" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42739275" sideWeight="0.18451025" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4108911" sideWeight="0.48469388" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42739275" sideWeight="0.77468705" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24348535" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39842725" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994778" sideWeight="0.8667147" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -254,22 +777,192 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.49711815" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch10/sec04/ParallelAlgorithms.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch10/sec04/ParallelAlgorithms.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch10/sec05/CHMDemo.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec03/RaceConditionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2945">
+          <caret line="155" column="9" lean-forward="false" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec03/VisibilityDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec04/ParallelAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec05/CHMDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/AtomicLongDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="75" column="60" lean-forward="false" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/LongAdderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="146" lean-forward="false" selection-start-line="30" selection-start-column="146" selection-end-line="30" selection-end-column="146" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec1/RunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec03/RaceConditionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2945">
+          <caret line="155" column="9" lean-forward="false" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec03/VisibilityDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec04/ParallelAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec05/CHMDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/AtomicLongDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/LongAdderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="146" lean-forward="false" selection-start-line="30" selection-start-column="146" selection-end-line="30" selection-end-column="146" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="75" column="60" lean-forward="false" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch01/sec01/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -277,7 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -285,16 +977,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec1/RunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/sec01/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/sec01/MethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/sec01/InputAndOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/sec01/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/sec01/MethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/sec01/InputAndOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/icbc/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/ch01/sec01/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="0">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -302,7 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -310,6 +1048,178 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec1/RunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="1026" column="26" lean-forward="false" selection-start-line="1026" selection-start-column="26" selection-end-line="1026" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="3623" column="31" lean-forward="false" selection-start-line="3623" selection-start-column="31" selection-end-line="3623" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="155" column="9" lean-forward="false" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec03/RaceConditionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec03/VisibilityDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="75" column="60" lean-forward="false" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec04/ParallelAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec05/CHMDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/AtomicLongDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec1/CallableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="58" column="23" lean-forward="false" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/LongAdderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="146" lean-forward="false" selection-start-line="30" selection-start-column="146" selection-end-line="30" selection-end-column="146" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/LockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/CounterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/QueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="1483" column="22" lean-forward="false" selection-start-line="1483" selection-start-column="22" selection-end-line="1483" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/InterruptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch10/sec06/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding />
         </state>
       </provider>
