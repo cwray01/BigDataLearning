@@ -1,5 +1,6 @@
-package ch14_unsynch;
-import java.util.*;
+package ch14_nonsynch;
+
+import java.util.Arrays;
 
 /**
  * A bank with a number of bank accounts.
@@ -25,6 +26,7 @@ public class Bank {
      */
     public void transfer(int from, int to, double amount)
     {
+        //以下代码在多线程执行的时候，可能会面临Race Condition, 导致结果不可信，
         if (accounts[from] < amount) return;
         System.out.print(Thread.currentThread());
         accounts[from] -= amount;

@@ -35,7 +35,7 @@ public class ThreadPoolTest {
             pool.shutdown();
 
             int largestPoolSize = ((ThreadPoolExecutor) pool).getLargestPoolSize();
-            System.out.println("largest pool size=" + largestPoolSize);
+            System.out.println("largest pool size=" + largestPoolSize); //这是一个newCachedThreadPool，线程池的大小是不固定的
 
         }
     }
@@ -72,7 +72,7 @@ class MatchCounter implements Callable<Integer> // Callable 接口是一个参�
     //MatchCounter implements Callable<Integer>
     // java.util.concurrent.Callable<V<
     // V call() runs a task that yields a result
-    public Integer call()
+    public Integer call()   //传入的File有两种类型：文件或文件夹
     {
         int count = 0;
         try
@@ -80,11 +80,11 @@ class MatchCounter implements Callable<Integer> // Callable 接口是一个参�
             File[] files = directory.listFiles();
             List<Future<Integer>> results = new ArrayList<>();  //执行后得出的结果集
             for(File file : files)
-                if(file.isDirectory())
+                if(file.isDirectory())  //如果是文件夹，那就再构造一个MatchCounter，里面的每一个元素会进入单个文件的分支，最后调起search方法
                 {
                     MatchCounter counter = new MatchCounter(file, keyword, pool);
                     Future<Integer> result = pool.submit(counter); //result是Integer，由线程执行后得出，提交方式是将执行器放入线程并submit
-                                                                    //此处没看懂，counter需要做的是什么？
+
                     results.add(result); //把结果累加
                 }else
                 {
@@ -106,7 +106,7 @@ class MatchCounter implements Callable<Integer> // Callable 接口是一个参�
         return count;
     }
 
-    public boolean search(File file)
+    public boolean search(File file)    //核心的方法，可以写在call里，但为了解耦，最好写在call外面
     {
         try{
             try (Scanner in = new Scanner(file, "UTF-8"))
